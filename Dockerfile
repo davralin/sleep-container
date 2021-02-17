@@ -8,6 +8,7 @@ RUN \
     emacs-nox \
     git-core \
     nano \
+    procps \
     rsync \
     tar \
     vim \
