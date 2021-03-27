@@ -7,10 +7,13 @@ RUN \
     coreutils \
     emacs-nox \
     git-core \
+    less \
+    mariadb-client \
     nano \
     procps \
     rsync \
     tar \
+    unzip \
     vim \
     && \
     /bin/rm -rf /var/lib/apt/lists/*
