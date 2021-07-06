@@ -12,6 +12,7 @@ RUN \
     nano \
     procps \
     rsync \
+    silversearcher-ag \
     tar \
     unzip \
     vim \
